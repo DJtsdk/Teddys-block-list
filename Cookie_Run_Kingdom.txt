@@ -2,9 +2,8 @@
 
 #cookie run kingdom
 
-0.0.0.0 dnse3.com
-0.0.0.0 devsisters.cloud
-0.0.0.0 devscdn.com
-0.0.0.0 devscdn.com
-0.0.0.0 devplay.com
-0.0.0.0 appsflyersdk.com
+||dnse3.com^
+||devsisters.cloud^
+||devscdn.com^
+||devplay.com^
+||appsflyersdk.com^
