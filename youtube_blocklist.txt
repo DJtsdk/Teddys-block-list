@@ -1,5 +1,8 @@
-#wild cart thing (^|\.)
+#wild cart thing (\.|^)
 
 #youtube
 
-
+(\.|^)googlevideo\.com$
+(\.|^)youtube\.com$
+(\.|^)ytimg\.com$
+(\.|^)youtubei.googleapis\.com$
