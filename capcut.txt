@@ -1,0 +1,5 @@
+
+# Capcut
+
+||capcutcdn-us.com^
+||capcutapi.us^
