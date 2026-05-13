@@ -2,7 +2,7 @@
 
 #youtube
 
-(\.|^)googlevideo\.com$
-(\.|^)youtube\.com$
-(\.|^)ytimg\.com$
-(\.|^)youtubei.googleapis\.com$
+||googlevideo.com^
+||youtube.com^
+||ytimg.com^
+||youtubei.googleapis.com^
