@@ -8,3 +8,4 @@
 ||capcut-static.com^
 ||capcut.net^
 ||capcut.org^
+||capcutw.us^
