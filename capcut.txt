@@ -1,5 +1,10 @@
 
 # Capcut
 
-||capcutcdn-us.com^
+||capcut.com^
+||capcutapi.com^
 ||capcutapi.us^
+||capcutcdn-us.com^
+||capcut-static.com^
+||capcut.net^
+||capcut.org^
